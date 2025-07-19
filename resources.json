@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Raspberry Pi 4",
+    "description": "A small single-board computer used for programming and IoT projects.",
+    "category": "equipment",
+    "available": true,
+    "added_on": "2025-07-01T10:00:00Z"
+  },
+  {
+    "name": "Arduino UNO",
+    "description": "Open-source microcontroller board based on the Microchip ATmega328P.",
+    "category": "equipment",
+    "available": false,
+    "added_on": "2025-06-25T14:30:00Z"
+  },
+  {
+    "name": "3D Printer",
+    "description": "FDM printer available for prototyping models and parts.",
+    "category": "tool",
+    "available": true,
+    "added_on": "2025-06-20T12:00:00Z"
+  },
+  {
+    "name": "Python Crash Course Book",
+    "description": "A hands-on, project-based introduction to programming in Python.",
+    "category": "book",
+    "available": true,
+    "added_on": "2025-07-10T08:45:00Z"
+  },
+  {
+    "name": "MATLAB License",
+    "description": "Software license for numerical computing and simulations.",
+    "category": "software",
+    "available": false,
+    "added_on": "2025-07-15T09:15:00Z"
+  }
+]
